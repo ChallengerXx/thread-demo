@@ -1,5 +1,8 @@
 package com.create;
 
+/**
+ * 不共享数据情况
+ */
 public class ShareNothingThread extends Thread {
 
     private int count = 5;

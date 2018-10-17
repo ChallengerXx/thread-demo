@@ -1,7 +1,7 @@
 package com.create;
 
 /**
- * 共享数据情况
+ * 共享数据情况(线程不安全)
  */
 public class ShareThread extends Thread {
 

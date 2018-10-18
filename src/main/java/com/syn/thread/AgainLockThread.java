@@ -1,6 +1,6 @@
 package com.syn.thread;
 
-import com.AgainLockService;
+import com.syn.AgainLockService;
 
 public class AgainLockThread extends Thread {
 
